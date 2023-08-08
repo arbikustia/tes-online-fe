@@ -1,5 +1,16 @@
 # React + TypeScript + Vite
 
+Languages & tools
+Typescript to add type safety to projects.
+React to build component-based user interfaces.
+Vite for the development environment.
+Tailwind for CSS formatting.
+React Icons for adding icons.
+React Router for routing.
+chart.js 
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
